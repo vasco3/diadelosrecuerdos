@@ -21,6 +21,9 @@ const Home = () => {
           nuestros seres queridos. Podrás crear un altar del Día de los Muertos
           de manera virtual. Es decir, un altar en el Metaverso.
         </p>
+        <p>
+          Siguiente Día de los Muertos es el próximo 1 de Noviembre 2023
+        </p>
       </main>
     </div>
   );
