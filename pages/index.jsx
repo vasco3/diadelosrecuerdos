@@ -22,7 +22,7 @@ const Home = () => {
           de manera virtual. Es decir, un altar en el Metaverso.
         </p>
         <p>
-          Siguiente Día de los Muertos es el próximo 1 de Noviembre 2023
+          Siguiente Día de los Muertos es el próximo 1 de Noviembre 2024
         </p>
       </main>
     </div>
